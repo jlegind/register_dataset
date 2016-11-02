@@ -23,5 +23,4 @@ To register and index the datasets that are ready on a webpage, you only need to
 ```url = "http://asnhc.angelo.edu/archives/"```<br>
 ```#URL for the webpage containg the DwC archives```<br>
 
-```register_datasets(api_url, url, "afafe88e-4b8e-4e62-8f38-3eaa24f71532",<br>
-"9c0a8aa8-4ce7-49ba-aac7-21a97234f886", 'myuser', 'mypassword')```
+```register_datasets(api_url, url, "afafe88e-4b8e-4e62-8f38-3eaa24f71532", "9c0a8aa8-4ce7-49ba-aac7-21a97234f886", 'myuser', 'mypassword')```
