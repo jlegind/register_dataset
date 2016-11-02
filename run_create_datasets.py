@@ -17,11 +17,3 @@ def register_datasets(api_url, url, installation_key, publisher_key, user, passw
             mydataset.create_dataset()
             mydataset.create_endpoint(mydataset.res, zip_urls.pop())
             mydataset.crawl_dataset(mydataset.res)
-
-
-uat_api = 'http://api.gbif-uat.org/v1/dataset'
-#uat_api = 'http://apps2.gbif-uat.org:8084/dataset'
-url = "http://asnhc.angelo.edu/archives/"
-#URL for the webpage containg the DwC archives
-
-register_datasets(uat_api, url, "afafe88e-4b8e-4e62-8f38-3eaa24f71532", "9c0a8aa8-4ce7-49ba-aac7-21a97234f886", 'myuser', 'mypassword')
