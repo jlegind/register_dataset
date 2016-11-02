@@ -18,4 +18,4 @@ For the purpose of publishing to GBIF you will need an API url, the url for the 
 
 To register and index the datasets that are ready on a webpage, you only need to do this:
 
-'''register_datasets(uat_api, url, "afafe88e-4b8e-4e62-8f38-3eaa24f71532", "9c0a8aa8-4ce7-49ba-aac7-21a97234f886", 'myuser', 'mypassword')'''
+```register_datasets(uat_api, url, "afafe88e-4b8e-4e62-8f38-3eaa24f71532", "9c0a8aa8-4ce7-49ba-aac7-21a97234f886", 'myuser', 'mypassword')```
