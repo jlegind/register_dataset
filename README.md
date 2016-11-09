@@ -9,7 +9,7 @@ Prerequisites needed for the user:
 * Affiliation with an existing publishing organization in the GBIF network
 
 Prerequisites needed to run the package:
-* Beatiful Soup 4 - bs4 is a library for parsing HTML and XML files. https://pypi.python.org/pypi/beautifulsoup4
+* Beautiful Soup 4 - bs4 is a library for parsing HTML and XML files. https://pypi.python.org/pypi/beautifulsoup4
 * [Requests](http://docs.python-requests.org/en/master/), a library that deals with HTML requests and handles url encoding  
 
 ##### <sup>1</sup>The assumption is that these DwC archives are validated and fit for GBIF consumption.
